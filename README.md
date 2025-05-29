@@ -39,4 +39,4 @@ This project is designed to help NGOs:
 
 If you're interested in collaborating or want to know more about this project, feel free to connect:
 
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/nagalakshmi-965934221)
+- LinkedIn: [linkedin.com/in/nagalakshmi](https://www.linkedin.com/in/nagalakshmi-965934221)
